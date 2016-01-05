@@ -1,0 +1,5 @@
+Request Headers: {"user-agent":"curl/7.24.0 (x86_64-apple-darwin12.0) libcurl/7.24.0 OpenSSL/0.9.8} zlib/1.2.5","host":"127.0.0.1:8001","accept":"*/*","content-length":"11","content-type":"application/x-www-form-urlencoded"}
+
+hello proxyRequest Headers: {"user-agent":"curl/7.24.0 (x86_64-apple-darwin12.0) libcurl/7.24.0 OpenSSL/0.9.8} zlib/1.2.5","host":"127.0.0.1:8001","accept":"*/*","content-length":"11","content-type":"application/x-www-form-urlencoded"}
+
+hello proxy
